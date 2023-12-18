@@ -34,4 +34,4 @@ We reckon that this is one way of creating the app, and probably does not repres
 #### Conclusion
 The experience with using chatGPT 4 and 3.5 for developing this app was very interesting. We believe that with more practice this will get considerably faster. Especially for apps which are not overwhelmingly complicated.
 We also think that one has to have knowledge beforehand about how the app should be structured and how the components will interact with the main app.
-Finally we believe that this way of developing is very suitable for people who are still learning, but still, want to be able to create apps 👍
+Finally we believe that this way of developing is very suitable for people who are still learning, but want to be able to create apps 👍
