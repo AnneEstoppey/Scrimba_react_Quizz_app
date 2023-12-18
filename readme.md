@@ -8,7 +8,8 @@ Please check out the dependencies and versions in the package.json file.<br>
 The app will run on your local host.
 
 #### Introduction
-In this project we elaborated the app with chatGPT (both 3.5 and 4, as a plus user on openai). The aim was to learn using chatGPT as an assistant for coding. 
+In this project we elaborated the app with chatGPT (both 3.5 and 4, as a plus user on openai). 
+<br>The aim was to learn using chatGPT as an assistant for coding. 
 Also we had the design of the app in Figma, which of course helps a lot to start with (link to my Figma [here](https://www.figma.com/file/DdAGVzWAsASpXk1pj2fhRm/Quizzical-App-(Copy)?type=design&node-id=0%3A1&mode=design&t=h8hPHnzgke6cfX4t-1)).
 
 We started by feeding chatGPT 4 with a prompt describing the context of the app and attaching a screenshot of the introduction screen from Figma:
