@@ -1,4 +1,4 @@
-## Quizz app - Solo project
+## Quizz app - Solo project (Scrimba)
 This was the solo project at the end of the React class on Scrimba.
 <br> For information about the content of the class please see [here](https://scrimba.com/learn/learnreact).
 
