@@ -32,3 +32,6 @@ We reckon that this is one way of creating the app, and probably does not repres
 ![scrimba_quizzical_04questions_answers](https://github.com/AnneEstoppey/Scrimba_react_Quizz_app/assets/35219455/b5496fa4-1acb-4d08-87c9-ddae44d32e6e)
 
 #### Conclusion
+The experience with using chatGPT 4 and 3.5 for developing this app was very interesting. We believe that with more practice this will get considerably faster. Especially for apps which are not overwhelmingly complicated.
+We also think that one has to have knowledge beforehand about how the app should be structured and how the components will interact with the main app.
+Finally we believe that this way of developing is very suitable for people who are still learning, but still, want to be able to create apps 👍
